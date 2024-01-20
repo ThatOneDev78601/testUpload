@@ -1,5 +1,7 @@
-const express = require('express');
-const { Deta } = require("deta");
+// segment.js
+
+import express = from 'express';
+import { Deta } = from "deta";
 
 const app = express();
 const deta = Deta('b0z61Ay7aZUy_EB8xyjVZ4BZMJvq7itEVKNHjWaPqK3jq');
